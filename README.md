@@ -2,13 +2,17 @@
 
 This simple News App built to demonstrate the use of modern android architecture component with MVVM Architecture and api.
 
+
 ## API
 
 This App fetches data from [News Api](https://newsapi.org/).
 
+
+ ## Built using [MVVM Architecture](https://developer.android.com/topic/architecture)
+
+ 
 ## Technologies Used
 
-- Android SDK
 - [Kotlin](https://kotlinlang.org/) - Programming language for Android.
 - [Room Database](https://developer.android.com/training/data-storage/room/)- SQLite object mapping library.
 - [LiveData](https://developer.android.com/topic/libraries/architecture/livedata/) - Data objects that notify views when the underlying database changes.
@@ -21,11 +25,10 @@ This App fetches data from [News Api](https://newsapi.org/).
 - [Glide](https://github.com/bumptech/glide) - An image loading and caching library for Android focused on smooth scrolling
 - [Retrofit](https://square.github.io/retrofit/) - A type-safe HTTP client for Android and Java.
 
- ## Built using [MVVM Architecture](https://developer.android.com/topic/architecture)
   
 ## Dependencies
 
-dependencies {
+dependencies 
 
     implementation 'androidx.appcompat:appcompat:1.6.1'
     implementation 'com.google.android.material:material:1.12.0'
@@ -61,7 +64,7 @@ dependencies {
     implementation 'com.github.bumptech.glide:glide:4.12.0'
     annotationProcessor 'com.github.bumptech.glide:compiler:4.12.0'
 
-}
+
 
 ## Screenshots
 <img src="https://github.com/crashoo/WorldNews/assets/116108036/d9a05c51-2e56-4995-81f2-b4d581c79551" width="250" height="450">
@@ -71,7 +74,4 @@ dependencies {
 <img src="https://github.com/crashoo/WorldNews/assets/116108036/ea9e75ae-547d-4eb2-9bf5-e7b76aaf2b1c" width="250" height="450">
 
 
-## License
-
-Include the license under which your project is released.
 
