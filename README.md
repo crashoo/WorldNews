@@ -64,11 +64,10 @@ dependencies {
 }
 
 ## Screenshots
-![front-light](https://github.com/crashoo/WorldNews/assets/116108036/d9a05c51-2e56-4995-81f2-b4d581c79551)
-![bookmark-light](https://github.com/crashoo/WorldNews/assets/116108036/115ebaf4-0206-47eb-a6af-c8c22205294d)
-
-![front-dark](https://github.com/crashoo/WorldNews/assets/116108036/ce122105-15c1-421e-ad9b-0ae2df9156e9)
-![bookmark-dark](https://github.com/crashoo/WorldNews/assets/116108036/ea9e75ae-547d-4eb2-9bf5-e7b76aaf2b1c)
+<img src="https://github.com/crashoo/WorldNews/assets/116108036/d9a05c51-2e56-4995-81f2-b4d581c79551" width="200" height="200">
+<img src="https://github.com/crashoo/WorldNews/assets/116108036/115ebaf4-0206-47eb-a6af-c8c22205294d" width="200" height="200">
+<img src="https://github.com/crashoo/WorldNews/assets/116108036/ce122105-15c1-421e-ad9b-0ae2df9156e9" width="200" height="200">
+<img src="https://github.com/crashoo/WorldNews/assets/116108036/ea9e75ae-547d-4eb2-9bf5-e7b76aaf2b1c" width="200" height="200">
 
 
 ## License
